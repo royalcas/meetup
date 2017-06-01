@@ -27,4 +27,4 @@
 ## 4. 😀 Cómo hacer testing en Angular [Karma, Jasmine, etc.]
 
 - **Speaker:** [Roger Álvarez](https://github.com/royalcas)
-- **Slides:** [TBD](http://slides.com/rogeralvarezcastrillon/angularautomatedtesting#/)
+- **Slides:** [Test Automation using Karma and Protractor](http://slides.com/rogeralvarezcastrillon/angularautomatedtesting#/)
